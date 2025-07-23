@@ -27,3 +27,10 @@
   text-align: justify;
 }
 
+.custom-hr {
+  border: none;
+  height: 2px;
+  background-color: #00b894;
+  margin: 1rem 0;
+}
+
